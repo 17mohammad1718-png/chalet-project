@@ -1,0 +1,6 @@
+{
+  "name": "Cabin Booking & Financial Dashboard",
+  "description": "An interactive dashboard for tracking cabin reservations, calculating platforms commissions, analyzing monthly revenues, and exporting luxurious corporate Excel reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
